@@ -25,7 +25,7 @@ Proposta:
 </p>
 
 ## ✅ Resultado
-- [Acesse o resultado finalizado do Desafio 03, online](https://devbonatto.github.io/Responsividade-Projeto05/)
+- [Acesse o resultado finalizado do Projeto 05, online](https://devbonatto.github.io/Responsividade-Projeto05/)
 
 
 ## 🔖 Layout
